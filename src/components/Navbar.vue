@@ -10,7 +10,9 @@
             <i class="bi bi-list"></i>
         </button>
         <div>
-            <h1>Twapp</h1>
+            <router-link to="/">
+                <h1>Twapp</h1>
+            </router-link>
         </div>
     </div>
 
